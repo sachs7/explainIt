@@ -41,3 +41,14 @@ $ crewai run
 This command initializes the explainIt Crew, assembling the agents and assigning them tasks as defined in your configuration.
 
 This example, unmodified, will run the create a `report.md` file with the output of a research on LLMs in the root folder.
+
+
+# Streamlit App
+
+Instead of dealing with the CLI, if you want to interact with the app via browser, then, go to `src/explainit/main.py`:
+
+1. comment the existing code block
+2. install "streamlit" using: `uv pip install streamlit`
+3. enable the code block containing streamlit block
+4. run `streamlit run main.py`
+5. access the app at: http://localhost:8501
