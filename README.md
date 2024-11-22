@@ -7,6 +7,8 @@ Welcome to the Explainit Crew project, powered by [crewAI](https://crewai.com). 
 
 Ensure you have Python >=3.10 <=3.13 installed on your system. This project uses [UV](https://docs.astral.sh/uv/) for dependency management and package handling, offering a seamless setup and execution experience.
 
+ExplainIt uses Llama3.2, you can find the installation instructions [here](https://docs.crewai.com/how-to/llm-connections#using-local-models-with-ollama). Feel free to explore other LLMs based on the [CrewAI documentation](https://docs.crewai.com/how-to/llm-connections#connect-crewai-to-llms).
+
 First, if you haven't already, install uv:
 
 ```bash
