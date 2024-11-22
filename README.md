@@ -52,3 +52,7 @@ Instead of dealing with the CLI, if you want to interact with the app via browse
 3. enable the code block containing streamlit block
 4. run `streamlit run main.py`
 5. access the app at: http://localhost:8501
+
+## Result
+
+<img width="1434" alt="Screenshot 2024-11-21 at 5 21 44 PM" src="https://github.com/user-attachments/assets/3963c64a-d2f8-4330-b39d-088feea9cb3c">
